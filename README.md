@@ -52,8 +52,8 @@ Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
 
 ```python
 python manage.py createsuperuser
-Username : admin
-Password : 12345678
+Username : jestinmwilson
+Password : Jesus000
 ```
 # Demo
 
